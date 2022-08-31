@@ -1,5 +1,11 @@
 /* 
- * 
+ * Outline:
+ *   Editor Extension to add menuitems which transform selected GameObject(s) 
+ * Description:
+ *   This function is still unimplemented.
+ * Date: 
+ * Changes:
+ * Reference:
  */
 
 using UnityEditor;

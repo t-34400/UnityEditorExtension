@@ -1,3 +1,23 @@
+/* 
+ * Outline:
+ *   Editor Extension to add menuitems which create prefab or instantiate from prefab
+ * Description:
+ *   CreatePrefab() (shortcut Shift+P) create prefab(s) from the selected GameObject(s).
+ *   ValidateCreatePrefab() validate this menuitem when you select GameObject(s).
+ *   
+ *   CreateInstance() (shortcut Shift+I) create instance(s) from selected Prefab Asset(s).
+ *   ValidateCreateInstance validate this menuitem when you select Prefab Asset(s).
+ * Date: 
+ *   2022/08/31
+ * Changes:
+ * 
+ * Reference:
+ *   "Unity - Scripting API: PrefabUtility"
+ *   https://docs.unity3d.com/ScriptReference/PrefabUtility.html
+ *   "Unity - Scripting API: PrefabUtility.InstantiatePrefab"
+ *   https://docs.unity3d.com/ScriptReference/PrefabUtility.InstantiatePrefab.html
+ */
+
 using UnityEditor;
 using UnityEngine;
 

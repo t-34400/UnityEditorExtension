@@ -1,3 +1,13 @@
+/* 
+ * Outline:
+ *   Editor Extension to add menuitems which navigate to component of selected Object
+ * Description:
+ *   This function is still unimplemented.
+ * Date: 
+ * Changes:
+ * Reference:
+ */
+
 using UnityEditor;
 using UnityEngine;
 
