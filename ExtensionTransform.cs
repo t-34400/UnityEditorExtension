@@ -1,10 +1,14 @@
+/* 
+ * 
+ */
+
 using UnityEditor;
 using UnityEngine;
 
 namespace Extention34400
 {
     
-    public class EditorExtentionTransform34400 : EditorWindow
+    public class EditorExtentionTransform : EditorWindow
     {
         private static Vector3 change = new Vector3(1, 0, 0);
 

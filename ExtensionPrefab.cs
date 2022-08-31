@@ -3,7 +3,7 @@ using UnityEngine;
 
 namespace Extention34400
 {
-    public class EditorExtentionPrefab34400 : EditorWindow
+    public class EditorExtentionPrefab : EditorWindow
 {
     [MenuItem("Extention/Prefab/Create Prefab from selected GameObject #p", false, 1)]
     static void CreatePrefab()
